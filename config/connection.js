@@ -9,7 +9,7 @@
 //     mysql.createConnection({
 //     host: 'localhost',
 //     user: 'root',
-//     password: '',
+//     password: '4742Cire',
 //     database: 'burgers_db'
 //   });
 // };
